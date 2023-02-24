@@ -1,2 +1,10 @@
 #!/bin/bash
-echo $((POWER/DIVEDE))
+#!/bin/bash
+
+POWER=10
+DIVEDE=2
+
+RESULT=$((POWER/DIVEDE))
+
+echo $RESULT
+
